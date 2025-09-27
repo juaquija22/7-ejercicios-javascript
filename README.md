@@ -5,7 +5,7 @@ Una colección de ejercicios de programación en JavaScript que abordan diferent
 ## 📁 Estructura del Proyecto
 
 ```
-ejercicios javascript/
+ejercicioos javascript/
 ├── index.html          # Archivo HTML principal
 ├── js/                 # Directorio con ejercicios JavaScript
 │   ├── 1-arkanus.js
